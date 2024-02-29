@@ -2,6 +2,11 @@
 For arduino project
 
 # Reference
+### IDE
+https://www.arduino.cc/en/software
+
+### Official documents
+https://docs.arduino.cc/learn/starting-guide/getting-started-arduino/#anatomy-of-an-arduino-board
 
 # Discuss
 ### Jumpman ICD game
