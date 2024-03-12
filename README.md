@@ -35,6 +35,7 @@ https://projecthub.arduino.cc/utsabkayal001/clap-switch-using-arduino-281d0d
 https://www.hackster.io/BlueJay987/easy-environment-monitor-ea0c65
 
 # Project 2
-
+### Clap switching using Arduino
+https://projecthub.arduino.cc/utsabkayal001/clap-switch-using-arduino-281d0d
 
 # Project 3
