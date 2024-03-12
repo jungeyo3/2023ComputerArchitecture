@@ -1,6 +1,10 @@
 # 2023 ComputerArchitecture
 For arduino project
 
+
+- this is project plan: https://docs.google.com/document/d/1baKgsaJLS8JEbYO-m7eBCu6lKvYIEWtSl7EH8ufcIoQ/edit?usp=sharing
+- Please feel free to edit
+
 # Reference
 ### IDE
 https://www.arduino.cc/en/software
