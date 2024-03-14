@@ -55,3 +55,6 @@ https://www.hackster.io/BlueJay987/easy-environment-monitor-ea0c65
 https://projecthub.arduino.cc/utsabkayal001/clap-switch-using-arduino-281d0d
 
 # Project 3
+### RFID based attendance system
+https://www.hackster.io/Techatronic/rfid-based-attendance-system-using-arduino-d3d719
+
