@@ -34,6 +34,18 @@ https://projecthub.arduino.cc/utsabkayal001/clap-switch-using-arduino-281d0d
 ### Clap switching using Arduino
 https://projecthub.arduino.cc/utsabkayal001/clap-switch-using-arduino-281d0d
 
+### Arduino calculator
+https://projecthub.arduino.cc/123samridhgarg/arduino-calculator-bce0df
+
+### Car parking simulator
+https://projecthub.arduino.cc/bruno_opaiva/car-parking-simulator-522e53
+
+### Cat feeder
+https://projecthub.arduino.cc/Arduino_Genuino/pavlovs-cat-296cc2
+
+### Frequency detector
+https://projecthub.arduino.cc/lbf20012001/audio-frequency-detector-d300e3
+
 # Project 1
 ### Environment Monitor
 https://www.hackster.io/BlueJay987/easy-environment-monitor-ea0c65
